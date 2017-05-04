@@ -7,7 +7,7 @@ Note from  Kiran Kumar Roy
 This is WorkSpace for my GAN journy which I am learning while studing about machine learning from CDAC-ACTS
 the actual paper is present in this repo.
 
-this has been forked from : https://github.com/goodfeli/adversarial
+this has been forked from : https://github.com/goodfeli/adversarial : http://www.deeplearningbook.org/
 ================================
 
 This repository contains the code and hyperparameters for the paper:
