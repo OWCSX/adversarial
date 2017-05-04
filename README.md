@@ -4,12 +4,10 @@ Generative Adversarial Networks
 
 Note from  Kiran Kumar Roy
 ===============================
-This is WorkSpace for my GAN journy which I am learning while studing about machine learning from CDAC-ACTS
+This is WorkSpace for my GAN journy which I am learning while studing machine learning from CDAC-ACTS
 the actual paper is present in this repo.
-microsoft channel9: https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016
 
-
-this has been forked from : https://github.com/goodfeli/adversarial : http://www.deeplearningbook.org/
+this has been forked from : https://github.com/goodfeli/adversarial
 ================================
 
 
@@ -17,6 +15,14 @@ About Author
 ================================
 http://www.iangoodfellow.com/ : Dont forget to check the Presentations because it is so nicely explained.
 ================================
+
+Guide
+================================
+microsoft channel9: https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016
+
+http://www.deeplearningbook.org/
+
+
 
 This repository contains the code and hyperparameters for the paper:
 
