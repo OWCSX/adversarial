@@ -15,8 +15,8 @@ this has been forked from : https://github.com/goodfeli/adversarial : http://www
 
 About Author
 ================================
-http://www.iangoodfellow.com/
-
+http://www.iangoodfellow.com/ : Dont forget to check the Presentations because it is so nicely explained.
+================================
 
 This repository contains the code and hyperparameters for the paper:
 
