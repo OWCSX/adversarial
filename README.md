@@ -6,6 +6,8 @@ Note from  Kiran Kumar Roy
 ===============================
 This is WorkSpace for my GAN journy which I am learning while studing about machine learning from CDAC-ACTS
 the actual paper is present in this repo. https://github.com/bikky22/adversarial/raw/master/GAN%201406.2661v1.pdf
+microsoft channel9: https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016
+
 
 this has been forked from : https://github.com/goodfeli/adversarial : http://www.deeplearningbook.org/
 ================================
