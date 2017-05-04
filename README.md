@@ -1,7 +1,7 @@
 Generative Adversarial Networks
 ===============================
 
-===============================
+
 Note from  Kiran Kumar Roy
 ===============================
 This is WorkSpace for my GAN journy which I am learning while studing about machine learning from CDAC-ACTS
