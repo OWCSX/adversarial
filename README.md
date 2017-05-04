@@ -12,6 +12,12 @@ microsoft channel9: https://channel9.msdn.com/Events/Neural-Information-Processi
 this has been forked from : https://github.com/goodfeli/adversarial : http://www.deeplearningbook.org/
 ================================
 
+
+About Author
+================================
+http://www.iangoodfellow.com/
+
+
 This repository contains the code and hyperparameters for the paper:
 
 "Generative Adversarial Networks." Ian J. Goodfellow, Jean Pouget-Abadie,
