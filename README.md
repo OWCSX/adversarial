@@ -17,7 +17,7 @@ http://www.iangoodfellow.com/ : Dont forget to check the Presentations because i
 
 Guide
 ================================
-microsoft channel9: https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016
+microsoft channel9: https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks
 
 http://www.deeplearningbook.org/
 ================================
