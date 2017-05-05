@@ -5,13 +5,12 @@ Generative Adversarial Networks
 Note from  Kiran Kumar Roy
 ===============================
 This is WorkSpace for my GAN journy which I am learning while studing machine learning from CDAC-ACTS
-the actual paper is present in this repo.
 
 this has been forked from : https://github.com/goodfeli/adversarial
 ================================
 
 
-About Author
+Ian Goodfellow
 ================================
 http://www.iangoodfellow.com/ : Dont forget to check the Presentations because it is so nicely explained.
 ================================
