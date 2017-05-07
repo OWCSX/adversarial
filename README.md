@@ -22,6 +22,10 @@ microsoft channel9: https://channel9.msdn.com/Events/Neural-Information-Processi
 http://www.deeplearningbook.org/
 ================================
 
+GAN hack
+================================
+https://github.com/soumith/ganhacks
+================================
 
 
 This repository contains the code and hyperparameters for the paper:
