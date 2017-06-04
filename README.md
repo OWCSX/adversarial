@@ -15,6 +15,11 @@ Ian Goodfellow
 http://www.iangoodfellow.com/ : Dont forget to check the Presentations because it is so nicely explained.
 ================================
 
+Michael Nielsen
+================================
+http://neuralnetworksanddeeplearning.com/
+================================
+
 Guide
 ================================
 microsoft channel9: https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks
